@@ -1,0 +1,10 @@
+C:\Users\gumerovk\Desktop\apps\goodday\bin\Debug\netcoreapp2.0\goodday.deps.json
+C:\Users\gumerovk\Desktop\apps\goodday\bin\Debug\netcoreapp2.0\goodday.runtimeconfig.json
+C:\Users\gumerovk\Desktop\apps\goodday\bin\Debug\netcoreapp2.0\goodday.runtimeconfig.dev.json
+C:\Users\gumerovk\Desktop\apps\goodday\bin\Debug\netcoreapp2.0\goodday.dll
+C:\Users\gumerovk\Desktop\apps\goodday\bin\Debug\netcoreapp2.0\goodday.pdb
+C:\Users\gumerovk\Desktop\apps\goodday\obj\Debug\netcoreapp2.0\goodday.csproj.CoreCompileInputs.cache
+C:\Users\gumerovk\Desktop\apps\goodday\obj\Debug\netcoreapp2.0\goodday.AssemblyInfoInputs.cache
+C:\Users\gumerovk\Desktop\apps\goodday\obj\Debug\netcoreapp2.0\goodday.AssemblyInfo.cs
+C:\Users\gumerovk\Desktop\apps\goodday\obj\Debug\netcoreapp2.0\goodday.dll
+C:\Users\gumerovk\Desktop\apps\goodday\obj\Debug\netcoreapp2.0\goodday.pdb
